@@ -1,0 +1,40 @@
+h1 {
+  font-family: "Cormorant SC", serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 28px;
+  display: block;
+  margin: auto;
+}
+
+.blue-color {
+  background-color: #ffe435;
+  background-color: #ffc719;
+}
+
+.padding-col {
+  padding: 10px;
+}
+
+.logo {
+  width: 120px;
+  height: 80px;
+  display: block;
+  margin: auto;
+  padding: 5px;
+}
+
+.prompt {
+  font-size: 30px;
+  font-family: "Cormorant SC", serif;
+  display: block;
+  margin: auto;
+  padding: 8px;
+}
+
+.width-100 {
+  width: 100%;
+}

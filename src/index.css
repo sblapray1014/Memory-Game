@@ -1,0 +1,9 @@
+body {
+  background-image: url("./backgrounds/cityeditioncourt.jpg");
+
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}

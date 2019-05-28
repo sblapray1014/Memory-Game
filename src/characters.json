@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Joe Ingles",
+    "image": "/images/joeingles.png"
+  },
+  {
+    "id": 2,
+    "name": "Donovan Mitchell",
+    "image": "/images/donovan.png"
+  },
+  {
+    "id": 3,
+    "name": "Rudy Gobert",
+    "image": "/images/rudy.png"
+  },
+  {
+    "id": 4,
+    "name": "Derrick Favors",
+    "image": "/images/derrick.png"
+  },
+  {
+    "id": 5,
+    "name": "Jae Crowder",
+    "image": "/images/jae.png"
+  },
+  {
+    "id": 6,
+    "name": "Royce O'Neale",
+    "image": "/images/royce.png"
+  },
+  {
+    "id": 7,
+    "name": "Quin Snyder",
+    "image": "/images/quin.png"
+  },
+  {
+    "id": 8,
+    "name": "Kyle Korver",
+    "image": "/images/kyle.png"
+  },
+  {
+    "id": 9,
+    "name": "Ricky Rubio",
+    "image": "/images/ricky.png"
+  },
+  {
+    "id": 10,
+    "name": "Grayson Allen",
+    "image": "/images/grayson.png"
+  },
+  {
+    "id": 11,
+    "name": "Raul Neto",
+    "image": "/images/raul.png"
+  },
+  {
+    "id": 12,
+    "name": "Dante Exum",
+    "image": "/images/dante.png"
+  }
+]
